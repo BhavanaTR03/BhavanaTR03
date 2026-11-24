@@ -36,6 +36,14 @@ Text classification pipeline that sorts 308 support tickets into 14 categories. 
 Analysed purchasing data for ~1.6M households across 983 London areas (MSOAs) and 30+ nutrients. Used Shannon Entropy, regression and geospatial analysis to measure nutrient diversity, then presented findings to a non-technical academic panel via Power BI.
 `Python` `GIS` `Power BI` `Statistics`
 
+### Fashion Recommendation System
+- Developed an image-based fashion recommendation system using a pre-trained ResNet50 CNN.
+- Extracted and normalised image features using TensorFlow and Keras.
+- Used Scikit-learn Nearest Neighbours to identify visually similar fashion items.
+- Built an interactive image-upload application using Streamlit.
+
+**Technologies:** Python, TensorFlow, Keras, ResNet50, Scikit-learn, Streamlit, Computer Vision
+
 ### 💬 [Social Media Sentiment Analysis](https://github.com/BhavanaTR03/google-search-sentiment-analysis)
 Python project analysing sentiment in social media comments.
 `Python` `NLP`
